@@ -19,6 +19,6 @@
 [WSL Guideline English Version (Not Started)][2]
 
 
-[1]:https://github.com/WangJiaxiang96/WSL-Guideline/blob/master/WSL-Guideline/中文/00%20项目愿景.md
+[1]:./WSL-Guideline/中文/00-项目愿景.md
 
-[2]:https://github.com/WangJiaxiang96/WSL-Guideline/blob/master/WSL-Guideline/English/00%20About.md
+[2]:./WSL-Guideline/English/00-About.md
