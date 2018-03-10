@@ -22,3 +22,8 @@
 [1]:./WSL-Guideline/中文/00-项目愿景.md
 
 [2]:./WSL-Guideline/English/00-About.md
+
+---
+
+因时间仓促及水平所限，难免存在疏漏，还请各位及时指正！  
+该项目的所有文章也会发布在我的[知乎专栏](https://zhuanlan.zhihu.com/WindowsSubsystemForLinux)
