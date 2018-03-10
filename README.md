@@ -15,8 +15,8 @@
 
 ### Let's go!
 
-[WSL中文使用指南][1]  
-[WSL Guideline English Version (Not Started)][2]
+[《WSL使用指南》（中文）][1]  
+[《WSL Guideline》(English Version Not Started)][2]
 
 
 [1]:./WSL-Guideline/中文/00-项目愿景.md
