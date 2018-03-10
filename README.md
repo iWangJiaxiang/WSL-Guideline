@@ -15,10 +15,11 @@
 
 ### Let's go!
 
+[Test Link](./blob/master/WSL-Guideline/中文/00%20项目愿景.md)  
 [WSL中文使用指南][1]  
 [WSL Guideline English Version (Not Started)][2]
 
 
-[1]:https:://github.com/WangJiaxiang96/WSL-Guideline/blob/master/WSL-Guideline/中文/00%20项目愿景.md
+[1]:https:/WSL-Guideline/blob/master/WSL-Guideline/中文/00%20项目愿景.md
 
-[2]:https:://github.com/WangJiaxiang96/WSL-Guideline/blob/master/WSL-Guideline/English/00%20About.md
+[2]:https://github.com/WangJiaxiang96/WSL-Guideline/blob/master/WSL-Guideline/English/00%20About.md
