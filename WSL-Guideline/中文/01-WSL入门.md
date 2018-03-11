@@ -13,7 +13,7 @@
 &emsp;&emsp;事实上，的确是这样！只需要打开一个类似`CMD`的Bash命令行窗口，你的WSL就可以使用了（相当于建立了一个Session，因为WSL会一直伴随Win10的运行而运行），相对于从虚拟机启动既省时又省力。
 除此之外，虽然WSL不是完整的Linux系统，但你依然可以做到绝大多数在完整Linux系统能做的事（比如`vim`, `apt-get`等）。
 
-&emsp;&emsp;我们知道，Linux是一个系统内核，那么WSL是Linux发行版吗？并不是。WSL本质上是系统层面对Linux内核的支持，我们在Win10的应用商店[Microsoft Store][MSStore]内搜索下载我们喜欢的Linux发行版即可。目前，WSL支持[Ubuntu][ubuntu-l]，[Kali Linux][kali-l]，[GNU][GNU-l]，[SUSE][suse-l]，后续会有更多Linux发行版支持WSL。
+&emsp;&emsp;我们知道，Linux是一个系统内核，那么WSL是Linux发行版吗？并不是。WSL本质上是系统层面对Linux内核的支持，我们在Win10的应用商店[Microsoft Store][MSStore]内搜索下载我们喜欢的Linux发行版即可。目前，WSL支持[Ubuntu][ubuntu-l]，[Kali Linux][kali-l]，[GNU][GNU-l]，[SUSE][suse-l]等，后续会有更多Linux发行版支持WSL。
 
 &emsp;&emsp;更多详细信息请参阅微软官方文档[Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
 
