@@ -15,7 +15,7 @@
 
 &emsp;&emsp;我们知道，Linux是一个系统内核，那么WSL是Linux发行版吗？并不是。WSL本质上是系统层面对Linux内核的支持，我们在Win10的应用商店[Microsoft Store][MSStore]内搜索下载我们喜欢的Linux发行版即可。目前，WSL支持[Ubuntu][ubuntu-l]，[Kali Linux][kali-l]，[GNU][GNU-l]，[OpenSUSE][suse-l]等，后续可能会有更多Linux发行版支持WSL。
 
-&emsp;&emsp;更多详细信息请参阅微软官方文档[Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
+&emsp;&emsp;更多详细信息请参阅微软官方文档[Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)以及[Windows Command Line Tools For Developers](https://blogs.msdn.microsoft.com/commandline/)
 
 ---
 #### 下一步
