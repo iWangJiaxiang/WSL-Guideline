@@ -6,10 +6,10 @@
 
 &emsp;&emsp;<img width="300" src="../images/06-不一样的ssh/ssh-server-for-windows.png">    
 
-
+当然，也要在Windows防火墙中允许WSL SSH端口
 
 
 ---
 #### 下一步
 
-了解如何[通过脚本提高效率](07-通过脚本提高效率.md)
+* 了解如何[通过脚本提高效率](07-通过脚本提高效率.md)
