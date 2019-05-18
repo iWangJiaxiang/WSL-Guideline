@@ -1,6 +1,8 @@
 
 # WSL Guideline 
 
+![Welcome to WSL-Guideline](WSL-Guideline/images/logo.png)
+
 ### 这是WSL（Win10的Linux子系统）的进阶使用指南，在这里，你将学习到：  
 
 1. 如何为WSL安装桌面环境（以运行图形界面程序）  
